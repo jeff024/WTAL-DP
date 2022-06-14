@@ -16,7 +16,7 @@
 3.  The inference module performs the multi-instance learning technique to generate the video-level predictions and utilises the multi-thresholding method coupling with non-maximum suppression to obtain the predicted action instance temporal boundaries.
 
 ## Pre-extracted Input Features
-The utilised pre-extracted features are avaliable [here]()
+The utilised pre-extracted features are avaliable [here](https://drive.google.com/file/d/1UqHgEXfHOw-PFUPjwbupUjxFta2d74bO/view?usp=sharing)
 
 ## How To Run
 1. Download and unzip the pre-extracted input features to root folder
